@@ -27,10 +27,5 @@ int main(){
     printf("Digite uma frase: ");
     scanf("%99[^\n]", frase);
     printf("\nA frase digitada foi: %s\n", frase);
-
-
-
-
-
     return 0;
 }
